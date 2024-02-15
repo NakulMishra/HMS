@@ -1,0 +1,17 @@
+/* 
+    Document   : logo-center
+    Created on : 14 Sep, 2023, 6:04:41 PM
+    Author     : hp
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+div.center{
+    dispaly: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    width: 50%;
+}
+
